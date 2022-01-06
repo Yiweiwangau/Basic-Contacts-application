@@ -2,12 +2,9 @@ Basic Contacts application using ReactJS and Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-
+You may download the code and save it in your local folder.
+Please `cd` to the location of file saved and type
+### `npm install`
+Wait for installation to complete and type
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
