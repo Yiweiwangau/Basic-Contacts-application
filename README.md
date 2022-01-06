@@ -8,3 +8,4 @@ Please `cd` to the location of file saved and type
 Wait for installation to complete and type
 ### `npm start`
 
+You may also view the live website from in codesandbox https://codesandbox.io/s/practical-agnesi-i4d54
