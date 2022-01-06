@@ -2,6 +2,8 @@ Basic Contacts application using ReactJS and Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The information used in this application is applied using https://jsonplaceholder.typicode.com/ 's API
+
 You may download the code and save it in your local folder.
 Please `cd` to the location of file saved and type
 ### `npm install`
