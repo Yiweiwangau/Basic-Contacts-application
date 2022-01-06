@@ -8,13 +8,14 @@ class Contacts extends Component {
     contacts: []
   };
 
+  // get users from api
   componentDidMount() {
     axios.get(`https://jsonplaceholder.typicode.com/users`).then(res => {
       this.setState({ contacts: res.data });
       console.log(this.state.contacts);
     });
   }
-
+  // match users to contact component
   render() {
     const { contacts } = this.state;
     return (

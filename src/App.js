@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./components/Header";
 import Contacts from "./components/Contacts";
 
-
+// main structure
 class App extends Component {
   render() {
     return (
